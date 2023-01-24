@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="797a1651-cae0-4ebf-8803-eb80e5fe18c9" name="Changes" comment="" />
+    <list default="true" id="797a1651-cae0-4ebf-8803-eb80e5fe18c9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/algo-trading.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,7 +35,22 @@
       <option name="presentableId" value="Default" />
       <updated>1674595347423</updated>
       <workItem from="1674595354161" duration="220000" />
+      <workItem from="1674595877545" duration="470000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
